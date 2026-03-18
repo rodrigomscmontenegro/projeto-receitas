@@ -1,6 +1,6 @@
 # 🧁 Cupcake de Café com Chantilly
 
-Este é um projeto de uma página de receitas responsiva, desenvolvida durante o curso da Rocketseat.
+Este é um projeto de uma página de receitas, desenvolvida durante o curso da Rocketseat.
 
 ## 🚀 Tecnologias
 - HTML5
